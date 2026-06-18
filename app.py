@@ -20,8 +20,8 @@ FILES_ROOT = APP_DIR / "user_files"
 DATA_DIR.mkdir(exist_ok=True)
 FILES_ROOT.mkdir(exist_ok=True)
 
-OWNER_USER = "YOUR_USERNAME"
-OWNER_PASS = "YOUR_PASS"
+OWNER_USER = "ANNU_NG"
+OWNER_PASS = "annupanel"
 
 DEFAULT_PRICING = {
     "currency": "₹",
